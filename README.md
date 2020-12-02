@@ -1,2 +1,2 @@
 # ImageClassifierCNN
-identify leave image with CNN and accuracy value
+identify leaves image with CNN and accuracy value
